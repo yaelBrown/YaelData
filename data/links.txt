@@ -1,0 +1,23 @@
+Links for yaeldata
+
+Cheatsheets collections
+  - Overapi - http://overapi.com/
+
+HTTP 
+  - http statuses - https://httpstatuses.com/
+
+High Res Royalty free images
+  - unsplash.com - https://unsplash.com/search/photos/dark
+
+Bootstrap themes
+  - https://startbootstrap.com/
+  - https://www.bootstrapzero.com/
+  - http://wowslider.com/posts/35-top-free-bootstrap-templates-2016-95.html
+
+  - https://medium.com/@traversymedia/10-resources-for-free-website-app-themes-77928980c241
+
+Coding Interview Tips
+  - https://www.interviewcake.com/coding-interview-tips
+
+Podcasts
+  - https://simpleprogrammer.com/ultimate-list-developer-podcasts/

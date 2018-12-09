@@ -1,0 +1,47 @@
+body { 
+  background-color: #1F2124;
+  color: ghostwhite;
+}
+
+h1 {
+  color: #fff;
+}
+
+p {
+  color: #fff;
+  text-align: center;
+}
+
+.center-items{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+input[type=text] {
+  width: 100px;
+  border-radius: 5%;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+  width: 100%;
+}
+
+.Cheatsheets {
+  background-color: #464250;
+  padding: 20px;
+}
+
+h2 {
+  padding: 10px;
+}
+
+.devIconLink {
+  text-align: center;
+  font-size: 5em;
+}
+
+h3 {
+  
+}

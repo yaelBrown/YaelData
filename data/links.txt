@@ -5,6 +5,7 @@ Cheatsheets collections
 
 HTTP 
   - http statuses - https://httpstatuses.com/
+  - ascii codes - https://ascii.cl/htmlcodes.htm
 
 High Res Royalty free images
   - unsplash.com - https://unsplash.com/search/photos/dark

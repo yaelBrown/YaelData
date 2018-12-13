@@ -22,3 +22,6 @@ Coding Interview Tips
 
 Podcasts
   - https://simpleprogrammer.com/ultimate-list-developer-podcasts/
+
+Github
+  - https://help.github.com/articles/basic-writing-and-formatting-syntax/

@@ -25,3 +25,6 @@ Podcasts
 
 Github
   - https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
+Computer Science
+  - Big-O Notation Cheatsheet - http://bigocheatsheet.com/

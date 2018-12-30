@@ -32,6 +32,9 @@ Computer Science
 CSS
   - PXtoEM converter - http://pxtoem.com
 
+JS
+  - Array functions - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
 Spring 5 info
   - Release notes - http://www.luv2code.com/spring-5-whats-new
   - FAQ - http://www.luv2code.com/spring-5-faq

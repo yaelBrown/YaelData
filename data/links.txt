@@ -35,6 +35,9 @@ CSS
 JS
   - Array functions - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 
+ReactJS
+  - Supported Events for listeners - https://reactjs.org/docs/events.html#supported-events
+
 Spring 5 info
   - Release notes - http://www.luv2code.com/spring-5-whats-new
   - FAQ - http://www.luv2code.com/spring-5-faq

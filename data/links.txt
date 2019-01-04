@@ -41,3 +41,8 @@ ReactJS
 Spring 5 info
   - Release notes - http://www.luv2code.com/spring-5-whats-new
   - FAQ - http://www.luv2code.com/spring-5-faq
+  - SpringMVC docs - https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html
+
+Go
+  - Go lang playground - https://play.golang.org/
+  - Go documentation - https://godoc.org/

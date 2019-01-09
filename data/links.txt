@@ -1,5 +1,13 @@
 Links for yaeldata
 
+Developer & Webmaster Goodies
+  - Firefox Web Developer Add-on: https://addons.mozilla.org/en-US/firefox/addon/web-developer/ 
+  - Google Webmaster Tools: https://www.google.com/webmasters/#?modal_active=none
+  - Google Analytics: http://www.google.com/analytics/
+  - BrowserShots compatibility checker: http://browsershots.org/
+  - Page Load Time Checker: http://tools.pingdom.com/fpt/
+  - Away from home with no FTP program? Net2Ftp: http://net2ftp.com/
+
 Cheatsheets collections
   - Overapi - http://overapi.com/
 
@@ -31,6 +39,7 @@ Computer Science
 
 CSS
   - PXtoEM converter - http://pxtoem.com
+  - CSS Navbar w3schools - https://www.w3schools.com/css/css_navbar.asp
 
 JS
   - Array functions - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array

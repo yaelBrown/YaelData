@@ -56,3 +56,6 @@ Spring 5 info
 Go
   - Go lang playground - https://play.golang.org/
   - Go documentation - https://godoc.org/
+
+Mongo
+  - Mongoose Schema types - https://mongoosejs.com/docs/schematypes.html

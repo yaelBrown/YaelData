@@ -33,7 +33,7 @@ Podcasts
   - Coding Life - https://itunes.apple.com/us/podcast/welcome-everyone-intro/id1409217628?i=1000415394531&mt=2
 
 Github
-  - https://help.github.com/articles/basic-writing-and-formatting-syntax/
+  - Github documentation writing and formatting - https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 Computer Science
   - Big-O Notation Cheatsheet - http://bigocheatsheet.com/
@@ -59,3 +59,4 @@ Go
 
 Mongo
   - Mongoose Schema types - https://mongoosejs.com/docs/schematypes.html
+  - JSON to Mongoose - https://transform.now.sh/json-to-mongoose

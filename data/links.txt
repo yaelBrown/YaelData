@@ -7,7 +7,7 @@ Developer & Webmaster Goodies
   - BrowserShots compatibility checker: http://browsershots.org/
   - Page Load Time Checker: http://tools.pingdom.com/fpt/
   - Away from home with no FTP program? Net2Ftp: http://net2ftp.com/
-
+  - Random User Generator - https://randomuser.me/
 Cheatsheets collections
   - Overapi - http://overapi.com/
 

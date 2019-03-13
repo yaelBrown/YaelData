@@ -60,3 +60,22 @@ Go
 Mongo
   - Mongoose Schema types - https://mongoosejs.com/docs/schematypes.html
   - JSON to Mongoose - https://transform.now.sh/json-to-mongoose
+
+
+
+
+
+
+
+Consider a Web Internship with a nonprofit organization. 
+Three Steps to Landing a Web Designer Intern Job:
+https://www.forbes.com/sites/allbusiness/2014/04/19/3-steps-to-landing-a-web-designer-internship/#7aca7d2f6a99 
+
+Places to look for Internships:
+
+LinkedIn: https://www.linkedin.com/job/web-design-intern-jobs/
+
+InternMatch: https://www.internmatch.com/s/graphic-design-internships
+
+Glassdoor: https://www.glassdoor.com/Job/web-developer-intern-jobs-SRCH_KO0,20.htm
+InDeed: http://www.indeed.com/jobs?q=Web+Design+Internship&l=
